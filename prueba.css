@@ -1,0 +1,25 @@
+.pr2{
+	background-color: #ff00b6;
+}
+
+.pr{
+	background-color: #fffb00 !important;
+}
+
+.contenedor1{
+	margin-top: 5%;
+	margin-left: 20%;
+	margin-right: 5%;
+	margin-bottom: 15%;
+
+}
+
+.contenedor2{
+	width: 50%;
+	height: 50px;
+}
+
+.contenido{
+	font-size: 30px;
+	color: green;
+}
